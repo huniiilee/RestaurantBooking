@@ -10,7 +10,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "솔루션 항목", "솔루션 항목", "{8ED196DE-F82E-42CC-ADD2-37707866C8F2}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
-		.gitconfig = .gitconfig
+		.gitignore = .gitignore
 	EndProjectSection
 EndProject
 Global
